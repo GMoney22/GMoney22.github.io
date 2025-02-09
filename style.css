@@ -17,7 +17,7 @@ h3 {
   font-size: 16px;
   font-style: italics;
   color: #ffffff;
-  padding-left: 40px;
+  margin-left: 40px;
 }
 nav a {
   font-family:monospace;
@@ -30,7 +30,7 @@ img {
   padding: 5px;
   max-width: 50%;
   height: auto;
-  padding-left: 40px;
+  margin-left: 40px;
 }
 footer {
   font-family:monospace;
