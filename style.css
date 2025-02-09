@@ -26,6 +26,8 @@ img {
   border: 2px solid white;
   border-radius: 12px;
   padding: 5px;
+  max-width: 50%;
+  height: auto;
 }
 footer {
   font-family:monospace;
