@@ -22,6 +22,11 @@ nav a {
   font-weight: 100;
   color: #FFFF00;
 }
+img {
+  border: 2px solid white;
+  border-radius: 12px;
+  padding: 5px;
+}
 footer {
   font-family:monospace;
   font-weight: 100;
