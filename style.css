@@ -1,0 +1,23 @@
+body {
+  background-color: #101010;
+  color: #ffffff;
+  font-family:monospace;
+  font-weight: 100;
+}
+h1 {
+  font-family:monospace;
+  font-weight: 100;
+  font-size: 16px;
+  color: #ffffff;
+}
+nav a {
+  font-family:monospace;
+  font-weight: 100;
+  color: #FFFF00;
+}
+footer {
+  font-family:monospace;
+  font-weight: 100;
+  color: #ffffff;
+  font-size: 8px;
+}
