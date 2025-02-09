@@ -10,6 +10,13 @@ h1 {
   font-size: 16px;
   color: #ffffff;
 }
+h3 {
+  font-family:monospace;
+  font-weight: 100;
+  font-size: 16px;
+  font-style: italics;
+  color: #ffffff;
+}
 nav a {
   font-family:monospace;
   font-weight: 100;
